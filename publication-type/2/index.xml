@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Kevin Kiley</title>
-    <link>https://krkiley.github.io/publication/</link>
-      <atom:link href="https://krkiley.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>2 | Kevin Kiley</title>
+    <link>https://krkiley.github.io/publication-type/2/</link>
+      <atom:link href="https://krkiley.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 21:28:40 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Publications</title>
-      <link>https://krkiley.github.io/publication/</link>
+      <title>2</title>
+      <link>https://krkiley.github.io/publication-type/2/</link>
     </image>
     
     <item>
