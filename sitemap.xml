@@ -38,16 +38,17 @@
   </url>
   
   <url>
-    <loc>https://krkiley.github.io/author/</loc>
-  </url>
-  
-  <url>
     <loc>https://krkiley.github.io/blog/</loc>
+    <lastmod>2020-02-12T14:28:09-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://krkiley.github.io/blog/nobody_changes/</loc>
-    <priority>0</priority>
+    <lastmod>2020-02-12T14:28:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krkiley.github.io/author/</loc>
   </url>
   
   <url>
