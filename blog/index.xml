@@ -5,7 +5,7 @@
     <link>https://krkiley.github.io/blog/</link>
       <atom:link href="https://krkiley.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Kiley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 14:28:09 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Kevin Kiley</title>
@@ -13,16 +13,11 @@
     </image>
     
     <item>
-      <title>Nobody (really) changes</title>
+      <title></title>
       <link>https://krkiley.github.io/blog/nobody_changes/</link>
-      <pubDate>Wed, 12 Feb 2020 14:28:09 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://krkiley.github.io/blog/nobody_changes/</guid>
-      <description>&lt;p&gt;In my &lt;em&gt;American Sociological Review&lt;/em&gt; paper with Steve Vaisey, we look for evidence that people make persisting changes in attitudes and behaviors in the General Social Survey. We present one approach to measuring persistence in the paper, but we tested a lot of different approaches throughout the project, each with strengths and weaknesses. One weakness of the approach used in the &lt;em&gt;ASR&lt;/em&gt; article is that it does not make clear predictions for what proportion of the population might be changing at any given time. Here I present a simpler approach that does that.&lt;/p&gt;
-&lt;p&gt;At the heart of our paper lies a comparison of two models of individual behavior: a settled dispositions model, in which changes are temporary and individuals revert to a new baseline, and an active updating model, in which changes tend to persist. Under the active updating model, individuals at time 3 should never be closer to their response at time 1 than their response at time 2. Under the settled dispositions model, deviations are essentially random, so 50 percent of people who change between times 1 and 2 of a three-wave panel survey should show evidence of persistence by being closer to their time 2 response than their time 1 response at wave 3.&lt;/p&gt;
-&lt;p&gt;For this reason, we view the proportion of people making persisting changes above 50 percent as evidence of active updating. Consider the political views question in the GSS, a favorite of many researchers. In the 2006-2010 panel of the GSS, about 52 percent of the sample changed their. This isn&amp;rsquo;t surprising, given the seven-point scale of the response.&lt;/p&gt;
-&lt;p&gt;However, only about 52 percent of people who changed reported a wave 3 response that was closer to wave 2 than wave 1.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://krkiley.github.io/blog/nobody_changes/index_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
