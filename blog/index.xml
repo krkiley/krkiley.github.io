@@ -5,12 +5,35 @@
     <link>https://krkiley.github.io/blog/</link>
       <atom:link href="https://krkiley.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Apr 2020 08:28:09 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 08:49:58 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Blog</title>
       <link>https://krkiley.github.io/blog/</link>
     </image>
+    
+    <item>
+      <title>An SEM Measure of Stability</title>
+      <link>https://krkiley.github.io/blog/sem-stability/</link>
+      <pubDate>Mon, 04 May 2020 08:49:58 -0400</pubDate>
+      <guid>https://krkiley.github.io/blog/sem-stability/</guid>
+      <description>&lt;p&gt;My 
+&lt;a href=&#34;https://krkiley.github.io/blog/nobody_changes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post&lt;/a&gt; outlined perhaps the most basic approach to comparing the Settled Disposition Model (SDM) and Active Updating Model (AUM): counting whether there were more cases of persistent change than anticipated under the settled dispositions model. But that was not our first approach.&lt;/p&gt;
+&lt;p&gt;We began the project by comparing two structural equation models, presented below, for each attitude and behavior measure in the GSS. We represent the difference between the two data-generating processes slightly differently in this presentation than in the paper. In this structure, we ask: Once we control for the average response across the three waves, are the residuals for adjacent waves more correlated than for non-adjacent waves? If changes at each wave are more-or-less temporary or random departures, there should be no correlation between residuals once we control for a person&amp;rsquo;s mean. If people are changing in persisting ways, however, adjacent waves will have non-zero correlation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;diagrams.png&#34; alt=&#34;SEM diagrams&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To this end, the SEM for the active updating model (on the right) includes one more parameter than the settled dispositions model (on the left): a term that allows the covariance of the residuals for adjacent waves to be non-zero. This term constrained to be equal for both pairs of adjacent waves (1-2 and 2-3).&lt;/p&gt;
+&lt;p&gt;Similar to what we do in the paper when we compare two regression models: one with a constraint and one without, we can compare the BICs of both models to estimate a probability that one model fits better than the other. That distribution is presented below.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;semplot.png&#34; alt=&#34;Probabilities of active updatings&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In contrast to the distribution of probabilities we present in the paper, which found that about 60 percent of questions showed some evidence of persistence (or favoring the active updating model), this approach finds only about 34 percent of questions show evidence of persistence. About two-thirds of questions are classified the same in both models. Almost all items that are misclassified show evidence of persistence in the regression model but no significant evidence of persistence in the SEM model. What explains the 58 items that differ between the two models?&lt;/p&gt;
+&lt;p&gt;First, the model used in the paper, similar to the previous post, focuses primarily on using waves 1 and 2 to predict wave 3. In contrast, the SEM approach looks at the overall pattern of responses over all three waves and evaluates how well they conform to the two models.&lt;/p&gt;
+&lt;p&gt;Consider the following example. We ask people a question with a binary (yes/no) response option. There are three types of cases with the same &amp;ldquo;mean&amp;rdquo; response (.66): 0-1-1, 1-0-1, and 1-1-0. The regression approach only considers the first two patterns and evaluates whether the first occurs more often than the second. In the third pattern, both wave 1 and wave 2 make the same (wrong) prediction for wave 3. However, in the SEM context, the settled dispositions model actually predicts that all three of these patterns will occur in roughly the same proportion, while the active updating model predicts that the first and last patterns will each occur more often than the middle pattern.&lt;/p&gt;
+&lt;p&gt;In the example above, if 0-1-1 occurs much more frequently than 1-0-1, but 1-1-0 occurs much less frequently, the SEM model will predict no persistence where the regression model will.&lt;/p&gt;
+&lt;p&gt;This appears to be the case for some of the variables that differ between the two models, such as the &amp;ldquo;abortion in the case of rape&amp;rdquo; variable. Of people who change between the first two waves, 111 revert to their wave 1 response while 149 persist in their new response, which appears to provide evidence for active updating in the regression model. However, the number of people who give a different response in wave 3 is only 128, weakening the evidence of persistence to make it non-significant.&lt;/p&gt;
+&lt;p&gt;Again, when we look at the results of this approach, the approach we use in 
+&lt;a href=&#34;https://krkiley.github.io/publication/measuring-change-and-stability-in-personal-culture-using-panel-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the paper&lt;/a&gt;, and the approach I outlined in the 
+&lt;a href=&#34;https://krkiley.github.io/blog/nobody_changes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous post&lt;/a&gt;: for most items measuring during the GSS panels from 2006 to 2014, it is hard to make the case that some meaningful proportion of people changed their view in a persisting way.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Nobody (really) changes</title>
