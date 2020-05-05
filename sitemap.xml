@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://krkiley.github.io/blog/sem-stability/</loc>
-    <lastmod>2020-05-04T08:49:58-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krkiley.github.io/blog/</loc>
     <lastmod>2020-05-04T08:49:58-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://krkiley.github.io/</loc>
+    <lastmod>2020-05-04T08:49:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krkiley.github.io/blog/sem-stability/</loc>
     <lastmod>2020-05-04T08:49:58-04:00</lastmod>
   </url>
   
