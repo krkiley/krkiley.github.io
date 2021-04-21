@@ -5,12 +5,20 @@
     <link>https://krkiley.github.io/publication-type/2/</link>
       <atom:link href="https://krkiley.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 21:28:40 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Apr 2021 14:12:46 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>https://krkiley.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>A Model-Based Method for Detecting Persistent Cultural Change Using Panel Data</title>
+      <link>https://krkiley.github.io/publication/model-based-method/</link>
+      <pubDate>Wed, 21 Apr 2021 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/publication/model-based-method/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring Change and Stability in Personal Culture Using Panel Data</title>
