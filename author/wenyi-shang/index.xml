@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenyi Shang | Kevin Kiley</title>
+    <link>https://krkiley.github.io/author/wenyi-shang/</link>
+      <atom:link href="https://krkiley.github.io/author/wenyi-shang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenyi Shang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 14:12:46 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wenyi Shang</title>
+      <link>https://krkiley.github.io/author/wenyi-shang/</link>
+    </image>
+    
+    <item>
+      <title>Cohort Succession Explains Most Change in Literary Culture</title>
+      <link>https://krkiley.github.io/publication/cohort-literary/</link>
+      <pubDate>Mon, 02 May 2022 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/publication/cohort-literary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

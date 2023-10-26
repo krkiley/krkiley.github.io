@@ -5,7 +5,7 @@
     <link>https://krkiley.github.io/authors/</link>
       <atom:link href="https://krkiley.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 14:12:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 14:12:46 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
-      <title>Ted Underwood and Kevin Kiley and Wenyi Shang and Stephen Vaisey</title>
-      <link>https://krkiley.github.io/author/ted-underwood-and-kevin-kiley-and-wenyi-shang-and-stephen-vaisey/</link>
+      <title>Achim Edelmann</title>
+      <link>https://krkiley.github.io/author/achim-edelmann/</link>
+      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/achim-edelmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Stephen Vaisey</title>
+      <link>https://krkiley.github.io/author/and-stephen-vaisey/</link>
+      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/and-stephen-vaisey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabella Bouklas</title>
+      <link>https://krkiley.github.io/author/isabella-bouklas/</link>
+      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/isabella-bouklas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Kiley</title>
+      <link>https://krkiley.github.io/author/kevin-kiley/</link>
+      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/kevin-kiley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turgut Keskintürk</title>
+      <link>https://krkiley.github.io/author/turgut-keskinturk/</link>
+      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/turgut-keskinturk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ted Underwood</title>
+      <link>https://krkiley.github.io/author/ted-underwood/</link>
       <pubDate>Mon, 02 May 2022 14:12:46 -0400</pubDate>
-      <guid>https://krkiley.github.io/author/ted-underwood-and-kevin-kiley-and-wenyi-shang-and-stephen-vaisey/</guid>
+      <guid>https://krkiley.github.io/author/ted-underwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenyi Shang</title>
+      <link>https://krkiley.github.io/author/wenyi-shang/</link>
+      <pubDate>Mon, 02 May 2022 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/wenyi-shang/</guid>
       <description></description>
     </item>
     
@@ -45,8 +93,8 @@
 &lt;a href=&#34;https://socant.chass.ncsu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Sociology and Anthropology at North Carolina State University&lt;/a&gt;. I received my Ph.D. in sociology in 2021 from 
 &lt;a href=&#34;https://sociology.duke.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duke University&lt;/a&gt;. Here is my 
 &lt;a href=&#34;https://krkiley.github.io/files/cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My research explores the cultural and cognitive sources of attitude and opinion stability and change over the life course and develops new methods for measuring opinion behavior over time. A central project develops a cultural-cognitive theory of ambivalence and shows that ambivalence is an extremely common opinion behavior. To date, my work has appeared in the &lt;em&gt;American Sociological Review&lt;/em&gt; and &lt;em&gt;Sociological Science&lt;/em&gt; and has been recognized by the culture section of the American Sociological Association.&lt;/p&gt;
-&lt;p&gt;Prior to working at NC State, I was a postdoctoral scholar at the University of Iowa, where I worked with Yongren Shi using computational approaches to adjudicate different theories about how the cultures of online communities emerge and change.&lt;/p&gt;
+&lt;p&gt;I am a political and cultural sociologist with interests in quantitative and computational methods. My work explores the sources of stability and change in political preferences and personal culture over the life course and tries to make sense of individual inconsistency in opinions and tastes over time. Across this work I refine theories of opinion holding and cultural internalization by focusing on the interaction of human cognition with the “scaffolding” of the social environment. Alongside this substantive work, my research develops approaches to measuring personal cultural change over time with applicability to diverse theoretical problems. My research has been published in the &lt;em&gt;American Sociological Review&lt;/em&gt; and &lt;em&gt;Sociological Science&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Prior to working at NC State, I was a postdoctoral scholar at the University of Iowa.&lt;/p&gt;
 &lt;p&gt;If any of this interests you, please reach out: &lt;a href=&#34;mailto:kkiley@ncsu.edu&#34;&gt;kkiley@ncsu.edu&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
