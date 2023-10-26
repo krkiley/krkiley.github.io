@@ -5,12 +5,20 @@
     <link>https://krkiley.github.io/authors/</link>
       <atom:link href="https://krkiley.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Apr 2021 14:12:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 14:12:46 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://krkiley.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Ted Underwood and Kevin Kiley and Wenyi Shang and Stephen Vaisey</title>
+      <link>https://krkiley.github.io/author/ted-underwood-and-kevin-kiley-and-wenyi-shang-and-stephen-vaisey/</link>
+      <pubDate>Mon, 02 May 2022 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/ted-underwood-and-kevin-kiley-and-wenyi-shang-and-stephen-vaisey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stephen Vaisey and Kevin Kiley</title>
