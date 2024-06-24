@@ -5,12 +5,20 @@
     <link>https://krkiley.github.io/</link>
       <atom:link href="https://krkiley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Kiley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 14:12:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 14:12:46 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Kevin Kiley</title>
       <link>https://krkiley.github.io/</link>
     </image>
+    
+    <item>
+      <title>Intersectional Group Agreement on the Occupational Order</title>
+      <link>https://krkiley.github.io/publication/intersectional-agreement/</link>
+      <pubDate>Tue, 18 Jun 2024 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/publication/intersectional-agreement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantifying the Importance of Change for Understanding Differences in Personal Culture</title>
