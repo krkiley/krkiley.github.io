@@ -5,12 +5,36 @@
     <link>https://krkiley.github.io/authors/</link>
       <atom:link href="https://krkiley.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 14:12:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 14:12:46 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://krkiley.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>and Stephanie M. DiPietro</title>
+      <link>https://krkiley.github.io/author/and-stephanie-m.-dipietro/</link>
+      <pubDate>Fri, 20 Sep 2024 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/and-stephanie-m.-dipietro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Kiley</title>
+      <link>https://krkiley.github.io/author/kevin-kiley/</link>
+      <pubDate>Fri, 20 Sep 2024 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/kevin-kiley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongren Shi</title>
+      <link>https://krkiley.github.io/author/yongren-shi/</link>
+      <pubDate>Fri, 20 Sep 2024 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/yongren-shi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>and Kevin Kiley</title>
@@ -25,14 +49,6 @@
       <link>https://krkiley.github.io/author/freda-b.-lynn/</link>
       <pubDate>Tue, 18 Jun 2024 14:12:46 -0400</pubDate>
       <guid>https://krkiley.github.io/author/freda-b.-lynn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yongren Shi</title>
-      <link>https://krkiley.github.io/author/yongren-shi/</link>
-      <pubDate>Tue, 18 Jun 2024 14:12:46 -0400</pubDate>
-      <guid>https://krkiley.github.io/author/yongren-shi/</guid>
       <description></description>
     </item>
     
@@ -57,14 +73,6 @@
       <link>https://krkiley.github.io/author/isabella-bouklas/</link>
       <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
       <guid>https://krkiley.github.io/author/isabella-bouklas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kevin Kiley</title>
-      <link>https://krkiley.github.io/author/kevin-kiley/</link>
-      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
-      <guid>https://krkiley.github.io/author/kevin-kiley/</guid>
       <description></description>
     </item>
     
