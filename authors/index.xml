@@ -5,7 +5,7 @@
     <link>https://krkiley.github.io/authors/</link>
       <atom:link href="https://krkiley.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 14:12:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 14:12:46 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>and Freda B. Lynn</title>
-      <link>https://krkiley.github.io/author/and-freda-b.-lynn/</link>
-      <pubDate>Tue, 07 Jan 2025 14:12:46 -0400</pubDate>
-      <guid>https://krkiley.github.io/author/and-freda-b.-lynn/</guid>
+      <title>and Stephen Vaisey</title>
+      <link>https://krkiley.github.io/author/and-stephen-vaisey/</link>
+      <pubDate>Fri, 02 May 2025 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/and-stephen-vaisey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Kiley</title>
       <link>https://krkiley.github.io/author/kevin-kiley/</link>
-      <pubDate>Tue, 07 Jan 2025 14:12:46 -0400</pubDate>
+      <pubDate>Fri, 02 May 2025 14:12:46 -0400</pubDate>
       <guid>https://krkiley.github.io/author/kevin-kiley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turgut Keskintürk</title>
+      <link>https://krkiley.github.io/author/turgut-keskinturk/</link>
+      <pubDate>Fri, 02 May 2025 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/turgut-keskinturk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Freda B. Lynn</title>
+      <link>https://krkiley.github.io/author/and-freda-b.-lynn/</link>
+      <pubDate>Tue, 07 Jan 2025 14:12:46 -0400</pubDate>
+      <guid>https://krkiley.github.io/author/and-freda-b.-lynn/</guid>
       <description></description>
     </item>
     
@@ -69,26 +85,10 @@
     </item>
     
     <item>
-      <title>and Stephen Vaisey</title>
-      <link>https://krkiley.github.io/author/and-stephen-vaisey/</link>
-      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
-      <guid>https://krkiley.github.io/author/and-stephen-vaisey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Isabella Bouklas</title>
       <link>https://krkiley.github.io/author/isabella-bouklas/</link>
       <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
       <guid>https://krkiley.github.io/author/isabella-bouklas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turgut Keskintürk</title>
-      <link>https://krkiley.github.io/author/turgut-keskinturk/</link>
-      <pubDate>Fri, 13 Oct 2023 14:12:46 -0400</pubDate>
-      <guid>https://krkiley.github.io/author/turgut-keskinturk/</guid>
       <description></description>
     </item>
     
@@ -129,8 +129,8 @@
       <link>https://krkiley.github.io/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://krkiley.github.io/author/</guid>
-      <description>&lt;p&gt;Hello! I am Kevin Kiley. I am a postdoctoral scholar in the 
-&lt;a href=&#34;https://socant.chass.ncsu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Sociology and Anthropology at North Carolina State University&lt;/a&gt;. Starting in Fall 2025, I will be an Assistant Professor of Sociology in the same department. I received my Ph.D. in sociology in 2021 from 
+      <description>&lt;p&gt;Hello! I am Kevin Kiley. I am an Assistant Professor in the 
+&lt;a href=&#34;https://socant.chass.ncsu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Sociology and Anthropology at North Carolina State University&lt;/a&gt;. I received my Ph.D. in sociology in 2021 from 
 &lt;a href=&#34;https://sociology.duke.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duke University&lt;/a&gt;. Here is my 
 &lt;a href=&#34;https://krkiley.github.io/files/cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am a cultural sociologist who uses quantitative and computational methods to understand the sources of stability and change in beliefs, attitudes, preferences, and opinions over the life course. Across this work I refine theories of belief holding and cultural internalization by focusing on the interaction of human cognition with the “scaffolding” of the social environment. Alongside this substantive work, my research develops approaches to measuring personal cultural change over time with applicability to diverse theoretical problems. My research has been published in the &lt;em&gt;American Sociological Review&lt;/em&gt;, &lt;em&gt;Sociological Science&lt;/em&gt;, &lt;em&gt;Social Psychology Quarterly&lt;/em&gt;, &lt;em&gt;Poetics&lt;/em&gt;, and &lt;em&gt;Socius&lt;/em&gt;.&lt;/p&gt;
